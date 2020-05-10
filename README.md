@@ -21,22 +21,7 @@ The main menu will be:
 
 3.End Game
 
-
-
-1.New game: You will initialize the file like this:
-
-
-
-							
-w	w	w	w	w	w	w	w
-w	w	w	w	w	w	w	w
-							
-							
-b	b	b	b	b	b	b	b
-b	b	b	b	b	b	b	b
-							
-w							
-
+1.New game
 
 And pc will ask the turn holder team which stamp will play like below
 
