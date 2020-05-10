@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\NURDAN\source\repos\fileOrganizationVize\fileOrganizationVize\Source.c(15,9): warning C4101: 'state': unreferenced local variable
+C:\Users\NURDAN\source\repos\fileOrganizationVize\fileOrganizationVize\Source.c(62,9): warning C4013: 'exit' undefined; assuming extern returning int
+  fileOrganizationVize.vcxproj -> C:\Users\NURDAN\source\repos\fileOrganizationVize\Debug\fileOrganizationVize.exe
