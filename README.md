@@ -1,7 +1,10 @@
 # basicCheckersGame
-checkers game with c
+### checkers game with c
 
 You will program a checkers (dama) game using a random access file.
+
+![Ekran Görüntüsü (56)](https://user-images.githubusercontent.com/38541121/81511336-42ac1880-9321-11ea-8492-c58d1986ca79.png)
+
 
 Your file consists of 8 records +1 (+1 is for the turn determination. 9th record consists of only one field) each one has 8 fields ( Dama tahtasının 8x8 kare olması dolayısıyla 8 kayıt ve her kaydın 8 alanı var)
 
@@ -41,23 +44,8 @@ After each turn,9th record will alternate between w and b.
 
 
 
-You will list the new status of the board to the screen and update the file. You will clear the screen and print the current status of the board like this:
-
-
-8		ww				ww		
-7								
-6								
-5	w	b		w				
-4	b	W		b		b	w	
-3								
-2								
-1	bb							bb
-	A	B	C	D	E	F	G	H
-
-
+You will list the new status of the board to the screen and update the file. You will clear the screen and print the current status of the board.
 You may separate with one or two tabs tab after each tile.
-
-
 
 2.Continue game: This will continue the game from the file.
 
